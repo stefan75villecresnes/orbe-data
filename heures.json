@@ -1,0 +1,19 @@
+{
+  "meta": { "name": "Heures miroirs", "version": 2 },
+  "hours": {
+    "11:11": [
+      { "text": "Portail d’intention : formulez clairement et agissez.", "weight": 4, "tags": ["intuition","départ"] },
+      { "text": "Synchronie forte : captez l’élan et posez un jalon.", "weight": 3 }
+    ],
+    "22:22": [
+      { "text": "Stabilité en construction : structurez, simplifiez.", "weight": 4 },
+      { "text": "Patience active : ce qui mûrit se consolide.", "weight": 3 }
+    ],
+    "07:07": [
+      { "text": "Éveil discret : un signe matinal éclaire une décision.", "weight": 4 }
+    ],
+    "default": [
+      { "text": "Signal de présence : clarifiez une intention et avancez sans vous presser.", "weight": 5 }
+    ]
+  }
+}
