@@ -1,0 +1,38 @@
+{
+  "Amour": {
+    "common": [
+      "Un geste sincère renforce aujourd’hui un lien précieux.",
+      "Accueillez une parole douce sans chercher à la contrôler."
+    ],
+    "rare": [
+      "Un alignement rare ouvre la voie d’un engagement durable."
+    ]
+  },
+  "Travail": {
+    "common": [
+      "Une tâche claire aujourd’hui allège votre semaine entière.",
+      "Un échange concis débloque la suite d’un projet."
+    ],
+    "rare": [
+      "Un signal fort annonce une opportunité structurante."
+    ]
+  },
+  "Vitalité": {
+    "common": [
+      "Respirez plus lentement dix minutes, le corps se rééquilibre.",
+      "Allégez une habitude et observez le regain d’énergie."
+    ],
+    "rare": [
+      "Un recalage profond s’amorce si vous respectez le rythme naturel."
+    ]
+  },
+  "Argent": {
+    "common": [
+      "Évitez la dépense impulsive, une petite discipline change tout.",
+      "Rangez vos comptes, la clarté attire l’équilibre."
+    ],
+    "rare": [
+      "Fenêtre rare pour poser une règle simple et durable."
+    ]
+  }
+}
