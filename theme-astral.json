@@ -1,27 +1,127 @@
 {
-  "meta": { "name": "Codex Astral", "version": 1 },
+  "meta": { "name": "Codex Astral", "version": 2 },
   "signes": {
-    "Bélier": { "description": "initiative et feu sacré" },
-    "Taureau": { "description": "ancrage et sensualité" },
-    "Gémeaux": { "description": "échanges et souplesse" },
-    "Cancer": { "description": "émotions et refuge" },
-    "Lion": { "description": "rayonnement et noblesse" },
-    "Vierge": { "description": "analyse et perfection" },
-    "Balance": { "description": "équilibre et beauté" },
-    "Scorpion": { "description": "transformation et mystère" },
-    "Sagittaire": { "description": "exploration et foi" },
-    "Capricorne": { "description": "maîtrise et ambition" },
-    "Verseau": { "description": "vision et nouveauté" },
-    "Poissons": { "description": "intuition et compassion" }
+    "Bélier": {
+      "description": "initiative et feu sacré",
+      "messages": [
+        "Tu entres dans un cycle d’audace : ose franchir la première marche.",
+        "Ton énergie déborde : canalise-la dans une action claire.",
+        "Un feu intérieur te pousse à décider sans détour.",
+        "La colère est une étincelle, mais la patience est ta force.",
+        "Chaque défi sur ton chemin est une invitation à l’élan vital."
+      ]
+    },
+    "Taureau": {
+      "description": "ancrage et sensualité",
+      "messages": [
+        "Ta stabilité attire l’abondance si tu restes constant.",
+        "Accorde-toi une pause : la nature t’enseigne ton rythme.",
+        "Un plaisir simple nourrit ton corps et ton âme.",
+        "Ta voix intérieure te demande d’honorer ton confort.",
+        "La persévérance construit ton royaume pierre après pierre."
+      ]
+    },
+    "Gémeaux": {
+      "description": "échanges et souplesse",
+      "messages": [
+        "Un mot bien placé peut ouvrir une porte insoupçonnée.",
+        "Ta curiosité t’offre la clé d’un nouvel horizon.",
+        "Écoute autant que tu parles, et l’équilibre surgira.",
+        "Ton esprit léger illumine l’ambiance autour de toi.",
+        "Les chemins multiples ne sont pas un piège mais une richesse."
+      ]
+    },
+    "Cancer": {
+      "description": "émotions et refuge",
+      "messages": [
+        "Ta sensibilité est une boussole, pas un fardeau.",
+        "Un souvenir ancien revient pour être guéri.",
+        "Ta maison intérieure demande un soin délicat.",
+        "L’eau des émotions devient source si tu la laisses couler.",
+        "Accueille la douceur : c’est ta vraie puissance."
+      ]
+    },
+    "Lion": {
+      "description": "rayonnement et noblesse",
+      "messages": [
+        "Ton rayonnement éclaire ceux qui doutent autour de toi.",
+        "Un acte généreux élève ton propre trône.",
+        "Rappelle-toi que le vrai pouvoir est dans le cœur.",
+        "Un regard franc suffit parfois à inspirer confiance.",
+        "La noblesse de ton geste laisse une trace durable."
+      ]
+    },
+    "Vierge": {
+      "description": "analyse et perfection",
+      "messages": [
+        "Chaque détail pris en compte devient une grande force.",
+        "Ton discernement clarifie les zones d’ombre.",
+        "Un ordre retrouvé te permet de respirer plus librement.",
+        "Un petit geste précis vaut mille grandes promesses.",
+        "Ton regard attentif répare plus qu’il ne critique."
+      ]
+    },
+    "Balance": {
+      "description": "équilibre et beauté",
+      "messages": [
+        "Un geste d’harmonie ramène la paix autour de toi.",
+        "Ta recherche d’équilibre est un art silencieux.",
+        "Un choix délicat demande d’écouter ton cœur autant que la raison.",
+        "Ta beauté intérieure se reflète dans tes actes quotidiens.",
+        "La justice que tu cherches est déjà inscrite en toi."
+      ]
+    },
+    "Scorpion": {
+      "description": "transformation et mystère",
+      "messages": [
+        "Chaque fin contient la graine d’un commencement.",
+        "Ton intensité perce les secrets invisibles.",
+        "La transformation que tu redoutes est ta délivrance.",
+        "Ton magnétisme attire ce que tu es prêt à transmuter.",
+        "Accepte la nuit, car elle prépare ton aurore."
+      ]
+    },
+    "Sagittaire": {
+      "description": "exploration et foi",
+      "messages": [
+        "Un horizon lointain t’appelle à franchir tes limites.",
+        "Ta soif de vérité éclaire ton entourage.",
+        "La liberté est ton temple, mais l’engagement ton initiation.",
+        "Chaque voyage intérieur t’ouvre un monde extérieur.",
+        "Ton optimisme est une flèche qui vise l’avenir."
+      ]
+    },
+    "Capricorne": {
+      "description": "maîtrise et ambition",
+      "messages": [
+        "Ton sommet est proche si tu avances pas à pas.",
+        "La discipline forge l’héritage que tu bâtis.",
+        "Ton sérieux devient lumière quand il est au service du bien.",
+        "Les épreuves d’aujourd’hui renforcent ton ossature.",
+        "Un effort constant te rapproche du sommet véritable."
+      ]
+    },
+    "Verseau": {
+      "description": "vision et nouveauté",
+      "messages": [
+        "Une idée avant-gardiste cherche à éclore en toi.",
+        "Ta différence est ton trésor, pas ton fardeau.",
+        "Un souffle collectif résonne à travers ta voix.",
+        "Le futur se tisse dans tes pensées d’aujourd’hui.",
+        "Ton originalité ouvre une voie que d’autres suivront."
+      ]
+    },
+    "Poissons": {
+      "description": "intuition et compassion",
+      "messages": [
+        "Un rêve nocturne contient la clé de ton présent.",
+        "Ton empathie guérit plus que tu ne l’imagines.",
+        "L’océan intérieur te guide si tu écoutes en silence.",
+        "Une mélodie subtile t’accompagne sur ton chemin.",
+        "Ton imagination est un pont vers l’infini."
+      ]
+    }
   },
-  "messages": [
-    "Cette semaine, ton énergie émotionnelle cherche à guérir une mémoire ancienne.",
-    "Le regard que tu portes sur toi peut être réajusté : reviens au cœur.",
-    "Tu portes un souffle nouveau. Accepte de t’étonner, même de toi-même.",
-    "Les résistances s’apaisent quand tu cesses de te battre contre toi-même.",
-    "C’est dans le silence que se dévoile ton vrai désir.",
-    "Une transition douce peut remplacer la peur si tu écoutes ton intuition."
-  ],
   "planetes": {
     "Mercure": "intellect et communication",
     "Vénus": "harmonie et affectif",
@@ -29,4 +129,3 @@
   },
   "noeuds": "Équilibrer l’individuel et le collectif"
 }
-
