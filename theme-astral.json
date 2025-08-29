@@ -1,1 +1,32 @@
+{
+  "meta": { "name": "Codex Astral", "version": 1 },
+  "signes": {
+    "Bélier": { "description": "initiative et feu sacré" },
+    "Taureau": { "description": "ancrage et sensualité" },
+    "Gémeaux": { "description": "échanges et souplesse" },
+    "Cancer": { "description": "émotions et refuge" },
+    "Lion": { "description": "rayonnement et noblesse" },
+    "Vierge": { "description": "analyse et perfection" },
+    "Balance": { "description": "équilibre et beauté" },
+    "Scorpion": { "description": "transformation et mystère" },
+    "Sagittaire": { "description": "exploration et foi" },
+    "Capricorne": { "description": "maîtrise et ambition" },
+    "Verseau": { "description": "vision et nouveauté" },
+    "Poissons": { "description": "intuition et compassion" }
+  },
+  "messages": [
+    "Cette semaine, ton énergie émotionnelle cherche à guérir une mémoire ancienne.",
+    "Le regard que tu portes sur toi peut être réajusté : reviens au cœur.",
+    "Tu portes un souffle nouveau. Accepte de t’étonner, même de toi-même.",
+    "Les résistances s’apaisent quand tu cesses de te battre contre toi-même.",
+    "C’est dans le silence que se dévoile ton vrai désir.",
+    "Une transition douce peut remplacer la peur si tu écoutes ton intuition."
+  ],
+  "planetes": {
+    "Mercure": "intellect et communication",
+    "Vénus": "harmonie et affectif",
+    "Uranus": "réinvention et liberté"
+  },
+  "noeuds": "Équilibrer l’individuel et le collectif"
+}
 
